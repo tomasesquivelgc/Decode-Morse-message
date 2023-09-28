@@ -10,7 +10,6 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -27,9 +26,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Vet_clinic <a name="about-project"></a>
+# 📖 Ruby Morse Decoder <a name="about-project"></a>
 
-**Vet_clinic** is a SQL Database for a veterinary clinic.
+**Ruby Morse Decoder** is a simple ruby code that helps translating any Morse code message you want.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -41,12 +40,6 @@
     <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
   </ul>
 </details>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Coming Soon]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,7 +132,7 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [X] **Owner's Data**
+- [] **Live demo**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
