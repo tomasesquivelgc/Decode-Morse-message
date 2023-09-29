@@ -61,7 +61,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:tomasesquivelgc/Vet-clinic.git
+  git clone git@github.com:tomasesquivelgc/Decode-Morse-message.git
 ```
 
 ### Install
@@ -70,44 +70,16 @@ Install this project with:
 
 ```sh
   cd my-project
-  npm install
+  bundle install
 ```
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
 ```sh
-  rails server
+  ruby morse_decoder.rb
 ```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
